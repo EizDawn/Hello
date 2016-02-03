@@ -225,7 +225,7 @@
                                                                                                                           <block type="robot_delay" id="63" inline="true">
                                                                                                                             <value name="DELAY">
                                                                                                                               <block type="math_number" id="64">
-                                                                                                                                <field name="NUM">200</field>
+                                                                                                                                <field name="NUM">500</field>
                                                                                                                               </block>
                                                                                                                             </value>
                                                                                                                             <next>
@@ -256,7 +256,7 @@
                                                                                                                                               <block type="robot_delay" id="71" inline="true">
                                                                                                                                                 <value name="DELAY">
                                                                                                                                                   <block type="math_number" id="72">
-                                                                                                                                                    <field name="NUM">200</field>
+                                                                                                                                                    <field name="NUM">500</field>
                                                                                                                                                   </block>
                                                                                                                                                 </value>
                                                                                                                                                 <next>
